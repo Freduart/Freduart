@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Stats 🤔:](https://github-readme-stats.vercel.app/api?username=Freduart)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats 🤔:]
+<h1 align="center">(https://github-readme-stats.vercel.app/api?username=Freduart)](https://github.com/anuraghazra/github-readme-stats)</h1>
 
 <h1 align="center">Hi 👋, I'm Freduart</h1>
 <h3 align="center">A passionate developer from El Salvador</h3>
