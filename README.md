@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-https://raw.githubusercontent.com/Freduart/Freduart/main/assets/Prueba.png
+![Aquí la descripción de la imagen por si no carga]
+(https://raw.githubusercontent.com/Freduart/Freduart/main/assets/Prueba.png)
