@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 
 
 <!-- Apartado personal -->
-### Hello There ⚡
+<h1 align="center">Hi 👋, I'm Freduart ⚡</h1>
+<h3 align="center">A passionate developer from El Salvador</h3>
+
+
 🌱 I’m currently learning just like every day
 
 
 [![My Stats 🤔:](https://github-readme-stats.vercel.app/api?username=Freduart&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<h1 align="center">Hi 👋, I'm Freduart</h1>
-<h3 align="center">A passionate developer from El Salvador</h3>
 
 - 🔭 I’m working on [FStudios](Fstudios.dev)
 
