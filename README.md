@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--Apartado de FSTudios -->
 
 <p align="center"> 
-  <img src="https://github.com/Freduart/Freduart/blob/main/assets/logoFStudiosNoBg.png" width="200" height="200"> 
+  <img src="https://github.com/Freduart/Freduart/blob/main/assets/logoFStudiosNoBg02.png" width="200" height="200"> 
   <font size="+2">
     <h1 align="center">FStudios</h1>        
   </font>
