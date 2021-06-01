@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 [![My Stats 🤔:](https://github-readme-stats.vercel.app/api?username=Freduart&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m working on [FStudios](Fstudios.dev)
+- 🔭 I’m working on [FStudios](https://Fstudios.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
